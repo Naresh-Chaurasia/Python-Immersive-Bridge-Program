@@ -108,6 +108,7 @@ celerybeat.pid
 .venv/
 .venv_*/
 .virtual_env/
+.venv_*/
 .*_venv/
 .*_venv
 env/
