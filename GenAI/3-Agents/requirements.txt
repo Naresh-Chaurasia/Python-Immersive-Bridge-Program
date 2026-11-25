@@ -1,0 +1,6 @@
+langchain==1.4.10
+langchain-openai==1.7.4
+langchain-google-genai==4.4.3
+pydantic==2.14.4
+python-dotenv==1.2.1
+ipykernel==6.29.5
